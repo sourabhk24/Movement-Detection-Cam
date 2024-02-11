@@ -1,2 +1,2 @@
 # Movement-Detection-Cam
-This a security cam type project that detects the movement of the object that system will capture.
+This project is an implementation of a simple motion detection system using the OpenCV library in Python. 
